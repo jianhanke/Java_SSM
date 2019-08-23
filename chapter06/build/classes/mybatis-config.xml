@@ -21,4 +21,5 @@
     <mappers>
 		<mapper resource="com/itheima/mapper/CustomerMapper.xml" />
     </mappers>
+    
 </configuration>
